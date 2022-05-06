@@ -1,0 +1,11 @@
+{
+  "nome": "Hulk",
+  "descricao": "Caught in a gamma bomb explosion while trying to save the life of a teenager, Dr. Bruce Banner was transformed into the incredibly powerful creature called the Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger the Hulk gets.",
+  "img": "src/assets/personagem.jpg",
+  "comics": [
+    { "item": "FREE COMIC BOOK DAY 2013 1 (2013) #1" },
+    { "item": "Hulk (2008) #53" },
+    { "item": "Hulk (2008) #54" },
+    { "item": "Hulk (2008) #55" }
+  ]
+}
